@@ -1,0 +1,17 @@
+{
+  "Shape": { "SR":"Box",
+            "SOD":"Box",
+            "HLA":"Box",
+            "LD":"Line",
+            "TL":"Box"
+
+  },
+  "Category": {
+              "SR":"Signs",
+              "SOD":"Objects",
+              "HLA":"Head light",
+              "LD":"Lane",
+              "TL":"Traffic Light"
+
+  }
+}
